@@ -20,3 +20,14 @@ Gaining knowledge in the field of front-end development is my goal. I have no ex
 * VS Code, Notepad++
 * Figma(for web development)
 * Illustrator, AutoCad, Adobe Photoshop
+### Code Examples ###
+``` 
+function sumTriangularNum(n) {
+  if (n < 0) {
+    return 0;
+  };
+  let a = n + 1;
+  let sum = ((a**3) - a) / 6;
+  return sum;
+};
+  ```
