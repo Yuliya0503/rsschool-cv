@@ -31,3 +31,23 @@ function sumTriangularNum(n) {
   return sum;
 };
   ```
+### Education ###
+  1. Belarusian State University
+      * Faculty of Geography
+  1. RUE "Belstroycenter"
+      * Environmental engineering specialist
+  1. RS Schools Course «JavaScript/Front-end. Stage 0»
+  1. JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru) (in progress)
+  1. Сourses [hexlet.io](https://ru.hexlet.io) (in progress)
+  1. Git [uleming.github.io/gitbook/index.html](https://uleming.github.io/gitbook/index.html)
+  1. Courses [WebReference](https://webref.ru) (in progress)
+### Experience ###
+  * Veterinary clinic "Alpha-Vet" (Administrator)
+      * July 2017 - July 2018
+  * State Enterprise "Research Institute Belgiprotopgas" (geological engineer)
+      * July 2018 - August 2021
+### Languages ###
+* English - A2
+* Ukrainian - B1
+* Belarusian  - Native
+* Russian - Native
